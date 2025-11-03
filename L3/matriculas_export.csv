@@ -1,0 +1,112 @@
+matricula,estudiante,apellido,idasignatura,asignatura,notanumerica,notatexto
+1030,William,Aguilar,3020,Antropologia,8.30,NOTABLE
+1030,William,Aguilar,3006,Economia,9.70,SOBRESALIENTE
+1030,William,Aguilar,3019,Politica,9.00,SOBRESALIENTE
+1030,William,Aguilar,3017,Psicologia,8.50,NOTABLE
+1027,Teresa,Campos,3001,Biologia,5.00,SUFICIENTE
+1027,Teresa,Campos,3003,Biomecanica,6.20,BIEN
+1027,Teresa,Campos,3002,Quimica,5.40,SUFICIENTE
+1012,David,Castro,3015,Arquitectura de Computadores,9.40,SOBRESALIENTE
+1012,David,Castro,3013,Bases de Datos,6.70,BIEN
+1012,David,Castro,3012,Estructuras de Datos,8.20,NOTABLE
+1012,David,Castro,3008,Programacion,7.80,NOTABLE
+1021,Monica,Chavez,3021,Anatomia,6.70,BIEN
+1021,Monica,Chavez,3025,Epidemiologia,8.50,NOTABLE
+1021,Monica,Chavez,3023,Farmacologia,7.20,NOTABLE
+1009,Javier,Diaz,3009,Fisica,7.80,NOTABLE
+1009,Javier,Diaz,3005,Historia,3.90,SUSPENSO
+1009,Javier,Diaz,3008,Programacion,6.60,BIEN
+1009,Javier,Diaz,3002,Quimica,5.70,SUFICIENTE
+1006,Laura,Fernandez,3003,Biomecanica,7.90,NOTABLE
+1006,Laura,Fernandez,3009,Fisica,7.10,NOTABLE
+1006,Laura,Fernandez,3005,Historia,8.20,NOTABLE
+1023,Olivia,Flores,3011,Algebra Lineal,7.80,NOTABLE
+1023,Olivia,Flores,3013,Bases de Datos,8.70,NOTABLE
+1023,Olivia,Flores,3012,Estructuras de Datos,9.00,SOBRESALIENTE
+1023,Olivia,Flores,3014,Inteligencia Artificial,9.50,SOBRESALIENTE
+1023,Olivia,Flores,3002,Quimica,8.30,NOTABLE
+1003,Luis,Gonzalez,3001,Biologia,2.10,SUSPENSO
+1003,Luis,Gonzalez,3006,Economia,9.00,SOBRESALIENTE
+1003,Luis,Gonzalez,3009,Fisica,9.30,SOBRESALIENTE
+1003,Luis,Gonzalez,3005,Historia,7.60,NOTABLE
+1029,Valeria,Guzman,3011,Algebra Lineal,5.90,SUFICIENTE
+1029,Valeria,Guzman,3015,Arquitectura de Computadores,7.10,NOTABLE
+1029,Valeria,Guzman,3010,Calculo,4.20,SUSPENSO
+1029,Valeria,Guzman,3009,Fisica,6.30,BIEN
+1029,Valeria,Guzman,3007,Matematicas,5.60,SUFICIENTE
+1020,Leonardo,Herrera,3020,Antropologia,8.20,NOTABLE
+1020,Leonardo,Herrera,3004,Derecho,9.10,SOBRESALIENTE
+1020,Leonardo,Herrera,3018,Filosofia,7.90,NOTABLE
+1020,Leonardo,Herrera,3005,Historia,8.60,NOTABLE
+1020,Leonardo,Herrera,3019,Politica,9.40,SOBRESALIENTE
+1014,Fernando,Jimenez,3020,Antropologia,6.50,BIEN
+1014,Fernando,Jimenez,3004,Derecho,8.80,NOTABLE
+1014,Fernando,Jimenez,3006,Economia,9.50,SOBRESALIENTE
+1014,Fernando,Jimenez,3005,Historia,8.10,NOTABLE
+1014,Fernando,Jimenez,3019,Politica,7.60,NOTABLE
+1002,Maria,Lopez,3003,Biomecanica,6.00,BIEN
+1002,Maria,Lopez,3005,Historia,7.70,NOTABLE
+1002,Maria,Lopez,3008,Programacion,9.50,SOBRESALIENTE
+1008,Isabel,Luna,3001,Biologia,7.50,NOTABLE
+1008,Isabel,Luna,3004,Derecho,8.70,NOTABLE
+1008,Isabel,Luna,3009,Fisica,10.00,MATRICULA
+1008,Isabel,Luna,3007,Matematicas,6.30,BIEN
+1008,Isabel,Luna,3002,Quimica,5.60,SUFICIENTE
+1004,Ana,Martinez,3003,Biomecanica,6.80,BIEN
+1004,Ana,Martinez,3007,Matematicas,5.30,SUFICIENTE
+1004,Ana,Martinez,3008,Programacion,7.90,NOTABLE
+1016,Hector,Mendoza,3011,Algebra Lineal,5.20,SUFICIENTE
+1016,Hector,Mendoza,3010,Calculo,4.80,SUSPENSO
+1016,Hector,Mendoza,3009,Fisica,7.10,NOTABLE
+1016,Hector,Mendoza,3007,Matematicas,6.40,BIEN
+1025,Raquel,Molina,3001,Biologia,9.80,SOBRESALIENTE
+1025,Raquel,Molina,3025,Epidemiologia,9.10,SOBRESALIENTE
+1025,Raquel,Molina,3022,Fisiologia,9.30,SOBRESALIENTE
+1025,Raquel,Molina,3024,Microbiologia,8.90,NOTABLE
+1011,Andrea,Morales,3021,Anatomia,9.10,SOBRESALIENTE
+1011,Andrea,Morales,3001,Biologia,6.30,BIEN
+1011,Andrea,Morales,3010,Calculo,8.50,NOTABLE
+1011,Andrea,Morales,3007,Matematicas,5.80,SUFICIENTE
+1011,Andrea,Morales,3016,Sociologia,7.20,NOTABLE
+1028,Ulises,Nunez,3020,Antropologia,8.80,NOTABLE
+1028,Ulises,Nunez,3018,Filosofia,8.40,NOTABLE
+1028,Ulises,Nunez,3005,Historia,7.70,NOTABLE
+1028,Ulises,Nunez,3019,Politica,9.20,SOBRESALIENTE
+1010,Sofia,Ortega,3001,Biologia,9.30,SOBRESALIENTE
+1010,Sofia,Ortega,3004,Derecho,8.80,NOTABLE
+1010,Sofia,Ortega,3008,Programacion,7.20,NOTABLE
+1026,Sebastian,Paredes,3011,Algebra Lineal,6.80,BIEN
+1026,Sebastian,Paredes,3015,Arquitectura de Computadores,7.60,NOTABLE
+1026,Sebastian,Paredes,3013,Bases de Datos,8.00,NOTABLE
+1026,Sebastian,Paredes,3012,Estructuras de Datos,7.30,NOTABLE
+1026,Sebastian,Paredes,3008,Programacion,5.50,SUFICIENTE
+1001,Juan,Perez,3001,Biologia,5.30,SUFICIENTE
+1001,Juan,Perez,3004,Derecho,9.20,SOBRESALIENTE
+1001,Juan,Perez,3007,Matematicas,6.80,BIEN
+1001,Juan,Perez,3002,Quimica,3.80,SUSPENSO
+1018,Jorge,Ramirez,3012,Estructuras de Datos,6.80,BIEN
+1018,Jorge,Ramirez,3014,Inteligencia Artificial,8.40,NOTABLE
+1018,Jorge,Ramirez,3008,Programacion,7.50,NOTABLE
+1022,Nicolas,Reyes,3015,Arquitectura de Computadores,6.10,BIEN
+1022,Nicolas,Reyes,3010,Calculo,5.30,SUFICIENTE
+1022,Nicolas,Reyes,3009,Fisica,4.90,SUSPENSO
+1022,Nicolas,Reyes,3007,Matematicas,3.50,SUSPENSO
+1005,Carlos,Rodriguez,3006,Economia,9.20,SOBRESALIENTE
+1005,Carlos,Rodriguez,3002,Quimica,6.50,BIEN
+1013,Elena,Ruiz,3018,Filosofia,7.40,NOTABLE
+1013,Elena,Ruiz,3017,Psicologia,6.90,BIEN
+1013,Elena,Ruiz,3016,Sociologia,5.50,SUFICIENTE
+1007,Miguel,Sanchez,3006,Economia,6.80,BIEN
+1019,Karla,Silva,3001,Biologia,5.90,SUFICIENTE
+1019,Karla,Silva,3010,Calculo,6.20,BIEN
+1019,Karla,Silva,3017,Psicologia,8.00,NOTABLE
+1019,Karla,Silva,3016,Sociologia,7.30,NOTABLE
+1017,Irene,Torres,3003,Biomecanica,9.60,SOBRESALIENTE
+1017,Irene,Torres,3023,Farmacologia,8.90,NOTABLE
+1017,Irene,Torres,3022,Fisiologia,9.30,SOBRESALIENTE
+1017,Irene,Torres,3024,Microbiologia,9.80,SOBRESALIENTE
+1017,Irene,Torres,3002,Quimica,10.00,MATRICULA
+1015,Gloria,Vargas,3021,Anatomia,9.20,SOBRESALIENTE
+1015,Gloria,Vargas,3022,Fisiologia,8.70,NOTABLE
+1024,Pablo,Vega,3004,Derecho,7.00,NOTABLE
+1024,Pablo,Vega,3016,Sociologia,6.50,BIEN
