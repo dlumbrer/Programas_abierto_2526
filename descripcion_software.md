@@ -1,9 +1,13 @@
 # Descripción del Software - Laboratorio de Bases de Datos
 
+## Material docente en abierto de la Universidad Rey Juan Carlos
+
 **Asignatura**: Laboratorio de Bases de Datos  
 **Titulación**: Grado en Ingeniería Telemática  
 **Universidad**: Universidad Rey Juan Carlos (URJC)  
 **Categoría**: Programas de Ordenador  
+**SWHID**: https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/dlumbrer/Programas_abierto_2526&timestamp=2025-11-03T18:36:42.505000%2B00:00  
+**SWHID ID** swh:1:dir:61639b22e4ef1e9dee2adabb7738c6e9f02c0e93  
 **Licencia**: "Atribución-CompartirIgual 4.0 Internacional" de Creative Commons.
 **Autores**: David Moreno Lumbreras y Daniela Patricia Feversani
 
